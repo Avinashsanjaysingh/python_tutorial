@@ -2,6 +2,7 @@
 
 
 
+'''
 def is_prime(x):
     for i in range(2,x):
         if ((x%i) == 0):
@@ -17,6 +18,6 @@ if is_prime(x):
     print("Prime")
 else:
     print("not prime")
-
+'''
 
 
