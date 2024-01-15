@@ -7,13 +7,11 @@ def greet():
 greet()
 
 
-def gret(name):
+def greetHello(name):
     gr = "Hello " + name
     return gr
 
-a = gret("Avinash")
+a = greetHello("Avinash")
 print(a)
 
 
-
-# hii
